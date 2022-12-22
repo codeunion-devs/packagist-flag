@@ -1,0 +1,19 @@
+{
+    "name": "codeunion/flag",
+    "description": "This package has been created to reserve a vendor name on packagist",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codeunion\\Flag\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcin Kusior",
+            "email": "marcin@codeunion.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
